@@ -2,7 +2,7 @@
 
 ## 📚 Overview
 
-In this exploration, we delve into the performance of various activation functions within a 3-layer neural network. The network architecture includes:
+In this exploration, I delve into the performance of various activation functions within a 3-layer neural network. The network architecture includes:
 
 - **Input Layer**: 728 neurons
 - **Hidden Layer**: 128 neurons
