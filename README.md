@@ -8,7 +8,7 @@ In this exploration, I delve into the performance of various activation function
 - **Hidden Layer**: 128 neurons
 - **Output Layer**: 10 neurons
 
-We evaluated three distinct activation functions to understand their impact on network performance:
+I evaluated three distinct activation functions to understand their impact on network performance:
 
 1. **Sigmoid** 🌟
 2. **Tanh** 🌟
@@ -46,7 +46,7 @@ These plots provide insight into how these functions transform inputs and how th
 
 ## 🧠 Conclusion
 
-Our analysis underscores the critical role of activation functions in optimizing neural network performance. The `tanh` + `sin` combination stands out, achieving superior accuracy and capturing complex data patterns more effectively. Choosing the right activation function is essential for enhancing model efficiency and learning capabilities.
+My analysis underscores the critical role of activation functions in optimizing neural network performance. The `tanh` + `sin` combination stands out, achieving superior accuracy and capturing complex data patterns more effectively. Choosing the right activation function is essential for enhancing model efficiency and learning capabilities.
 
 ---
 
